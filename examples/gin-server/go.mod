@@ -6,4 +6,4 @@ replace github.com/acl-dev/go-service => ../..
 
 require github.com/acl-dev/go-service v1.1.2
 
-require github.com/gin-gonic/gin v1.7.7
+require github.com/gin-gonic/gin v1.9.1
